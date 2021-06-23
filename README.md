@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mgarofoli, I have a Masters of Science in Business Analyticss from Elon University. 
+- 👋 Hi, I’m @mgarofoli, I have a Masters of Science in Business Analytics from Elon University. 
 - 👀 I’m interested in Data Analytics in a business setting.
 - 🌱 I’m currently learning SQL, Python, R and Tableau. 
 - 💞️ I’m looking to collaborate on anything! Looking for experience. 
